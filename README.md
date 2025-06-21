@@ -29,13 +29,5 @@ ML\_Project/
 - Jupyter Notebook
 
 ---
-📝 Future Improvements
-
-* Hyperparameter tuning
-* Deploying the model using Flask or Streamlit
-* Adding more regression algorithms for comparison
-* Model explainability (e.g., SHAP values)
-
----
 
 
